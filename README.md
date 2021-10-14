@@ -1,5 +1,5 @@
 # nyc-subway-buddy
-Full stack web app, developed with AMPPS stack, that allows NYC subway riders to find buddies for solo commutes.
+Full-stack web app, developed with AMPPS stack, that allows NYC subway riders to find buddies for solo commutes.
 
 Features:
 - Registration
